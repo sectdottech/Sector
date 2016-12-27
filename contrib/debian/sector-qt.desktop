@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=sector
+Comment=sector P2P Cryptocurrency
+Comment[fr]=sector, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=sector, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/sector-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/sector80.xpm
+MimeType=x-scheme-handler/sector;
+Categories=Office;

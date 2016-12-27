@@ -1,0 +1,6 @@
+debian/bin/sector-qt usr/bin
+sector-qt usr/lib/sector
+share/pixmaps/sector32.xpm usr/share/pixmaps
+share/pixmaps/sector80.xpm usr/share/pixmaps
+debian/sector-qt.desktop usr/share/applications
+debian/sector-qt.protocol usr/share/kde4/services/

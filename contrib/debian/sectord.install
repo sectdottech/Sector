@@ -1,0 +1,2 @@
+debian/bin/sectord usr/bin
+src/sectord usr/lib/sector

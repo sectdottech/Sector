@@ -1,0 +1,9 @@
+Building sector
+
+See doc/readme-qt.rst for instructions on building sector QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of sector.
+
+See doc/build-*.txt for instructions on building sectord,
+the intended-for-services, no-graphical-interface, reference
+implementation of sector.
